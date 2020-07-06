@@ -1,0 +1,12 @@
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Infrastructure\bin\Debug\netstandard2.0\Core.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Infrastructure\bin\Debug\netstandard2.0\Core.pdb
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb

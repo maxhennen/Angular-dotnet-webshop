@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4Ed4tcgzwto7IfAe0TwKPOlIoNIX/Xd3jaO6kn0T3vQkLX7tyUQzmj3GOJ2UjEi3LC28am9yiNfvMiNft+f7Q==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxhe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\maxhe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
