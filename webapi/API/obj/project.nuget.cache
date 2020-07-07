@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "v4lbWS5bIYql1LKv4tIVcFYhsVY3ndl83Jsmn72aeJs29SrdAhfrAtfcr8TZsG4OJEMwR9Ad5YXk18L8BbRsPg==",
+  "dgSpecHash": "m+JHLMRLnZjAlMZYNVm78MRTZGvg4QThQK/74GJzA+pq5shtqAKqbsgzG6b0fPDTSz8X0M9N987WelFynOqApw==",
   "success": true,
   "projectFilePath": "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -40,9 +40,9 @@
     "C:\\Users\\maxhe\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.2\\sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
     "C:\\Users\\maxhe\\.nuget\\packages\\swashbuckle\\6.0.0-rc1-final\\swashbuckle.6.0.0-rc1-final.nupkg.sha512",
     "C:\\Users\\maxhe\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.0\\swashbuckle.aspnetcore.5.5.0.nupkg.sha512",
-    "C:\\Users\\maxhe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.0\\swashbuckle.aspnetcore.swagger.5.5.0.nupkg.sha512",
-    "C:\\Users\\maxhe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.0\\swashbuckle.aspnetcore.swaggergen.5.5.0.nupkg.sha512",
-    "C:\\Users\\maxhe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.0\\swashbuckle.aspnetcore.swaggerui.5.5.0.nupkg.sha512",
+    "C:\\Users\\maxhe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\maxhe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\maxhe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512",
     "C:\\Users\\maxhe\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\maxhe\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\maxhe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
