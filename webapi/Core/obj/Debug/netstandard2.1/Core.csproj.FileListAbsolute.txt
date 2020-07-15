@@ -1,0 +1,9 @@
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Core\bin\Debug\netstandard2.1\Core.deps.json
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Core\bin\Debug\netstandard2.1\Core.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Core\bin\Debug\netstandard2.1\Core.pdb
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Core\obj\Debug\netstandard2.1\Core.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\Core\obj\Debug\netstandard2.1\Core.pdb

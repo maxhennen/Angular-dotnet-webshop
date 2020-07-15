@@ -80,3 +80,16 @@ E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1
 E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
 E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
