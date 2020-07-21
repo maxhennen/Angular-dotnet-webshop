@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\api\\API.csproj": {}
+    "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\api\\API.csproj": {
+    "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\api\\API.csproj",
+        "projectUniqueName": "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\api\\API.csproj",
+        "projectPath": "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\API\\API.csproj",
         "packagesPath": "C:\\Users\\maxhe\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\api\\obj\\",
+        "outputPath": "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxhe\\AppData\\Roaming\\NuGet\\NuGet.Config"
