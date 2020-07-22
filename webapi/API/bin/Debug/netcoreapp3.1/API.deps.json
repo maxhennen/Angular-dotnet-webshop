@@ -1126,6 +1126,22 @@
           "lib/netstandard2.0/StackExchange.Redis.dll": {}
         }
       },
+      "Stripe.net/37.23.0": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.1",
+          "Newtonsoft.Json": "10.0.1",
+          "System.Configuration.ConfigurationManager": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Stripe.net.dll": {
+            "assemblyVersion": "37.23.0.0",
+            "fileVersion": "37.23.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Stripe.net.dll": {}
+        }
+      },
       "Swashbuckle/6.0.0-rc1-final": {},
       "Swashbuckle.AspNetCore/5.5.0": {
         "dependencies": {
@@ -1260,6 +1276,9 @@
             "assemblyVersion": "4.0.3.0",
             "fileVersion": "4.700.19.56404"
           }
+        },
+        "compile": {
+          "ref/netstandard2.0/System.Configuration.ConfigurationManager.dll": {}
         }
       },
       "System.Diagnostics.Debug/4.3.0": {
@@ -1750,6 +1769,7 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "3.1.5",
           "Microsoft.IdentityModel.Tokens": "6.7.1",
           "StackExchange.Redis": "2.1.58",
+          "Stripe.net": "37.23.0",
           "System.IdentityModel.Tokens.Jwt": "6.7.1"
         },
         "runtime": {
@@ -3815,6 +3835,13 @@
       "sha512": "sha512-4DhbxL0SE/jNdX8TmqHHmu/wv4alOHsWJiXUTZAhqelnSkczikdKoWhPqUUCzfAp6tX5AKUKxEPE0dHVXOyMzA==",
       "path": "stackexchange.redis/2.1.58",
       "hashPath": "stackexchange.redis.2.1.58.nupkg.sha512"
+    },
+    "Stripe.net/37.23.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7l4uPrwxBzHCVAKdyvPeTiNEAScTMcSmZyKkaKO5qOTWZPLd2ZGav2axWviKsQVK8+KcgQShC1AmOTpkhogYMg==",
+      "path": "stripe.net/37.23.0",
+      "hashPath": "stripe.net.37.23.0.nupkg.sha512"
     },
     "Swashbuckle/6.0.0-rc1-final": {
       "type": "package",

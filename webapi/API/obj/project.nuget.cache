@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZVmGTyunaBUi52Dw30/aVIf7YJQhyM77/Uq+fl7OMSr2xODx5t8UNM4yJoNVOWaYkzx0oGyZpMXR8tKohfKGA==",
+  "dgSpecHash": "dYsev7wNYAxRFCtdzmr7CNwfpTQJ+bqfgqGD7TpaOqIOCADkjPqqE4QyEdvAlH4V+vFWvhQ9XbQCibejc+d3mQ==",
   "success": true,
   "projectFilePath": "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -73,6 +73,7 @@
     "C:\\Users\\maxhe\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.2\\sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
     "C:\\Users\\maxhe\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.2\\sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
     "C:\\Users\\maxhe\\.nuget\\packages\\stackexchange.redis\\2.1.58\\stackexchange.redis.2.1.58.nupkg.sha512",
+    "C:\\Users\\maxhe\\.nuget\\packages\\stripe.net\\37.23.0\\stripe.net.37.23.0.nupkg.sha512",
     "C:\\Users\\maxhe\\.nuget\\packages\\swashbuckle\\6.0.0-rc1-final\\swashbuckle.6.0.0-rc1-final.nupkg.sha512",
     "C:\\Users\\maxhe\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.0\\swashbuckle.aspnetcore.5.5.0.nupkg.sha512",
     "C:\\Users\\maxhe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",

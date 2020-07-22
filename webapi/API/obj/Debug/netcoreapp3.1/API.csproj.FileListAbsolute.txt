@@ -93,3 +93,4 @@ E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1
 E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\maxhe\Desktop\Angular-dotnet-webshop\webapi\API\bin\Debug\netcoreapp3.1\Stripe.net.dll
