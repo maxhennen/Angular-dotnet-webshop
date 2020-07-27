@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dYsev7wNYAxRFCtdzmr7CNwfpTQJ+bqfgqGD7TpaOqIOCADkjPqqE4QyEdvAlH4V+vFWvhQ9XbQCibejc+d3mQ==",
+  "dgSpecHash": "ripoKXilKVylbYTqqXItubj8d08Y7p/+971Y0/OfNITeIswfeL6nsPCdfey6uY6l4S0RiZ9+cmagEhGhTU+nSw==",
   "success": true,
-  "projectFilePath": "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\API\\API.csproj",
+  "projectFilePath": "E:\\Users\\maxhe\\Desktop\\Angular-dotnet-webshop\\webapi\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxhe\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\maxhe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
